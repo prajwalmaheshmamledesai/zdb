@@ -8,7 +8,7 @@ setup(
     description="ZDB scripts",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/project_name",  # Replace with your URL
+    url="https://github.com/prajwalmaheshmamledesai/zdb",  # Replace with your URL
     packages=find_packages(),
     install_requires=open("requirements.txt").read().splitlines(),
     classifiers=[
